@@ -15,9 +15,9 @@ sinceramente que codigo mas picho xD
 que vaina mas enrredada
 despidan al otro programador (y a mi proximamente)
 
-primero voy a re declarar las variables porque ni se que letra significa que cosa, la proxima por lo menos ponga est1 aunque sea
+primero voy a re declarar las variables porque ni se que letra significa que cosa, la proxima por lo menos ponga name aunque sea
 
-lo segundo seria revisar la manera en como se promedia las notas y en como se muestran los resultados
+lo segundo seria revisar como optimizar ese codigo para que sea mas facil de interpretar
 
 Logica: 
 

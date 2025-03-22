@@ -8,7 +8,6 @@ public class MuyMalHecho {
         System.out.println("Número de usuarios a ingresar:");
         int numUsuarios = scanner.nextInt();
         scanner.nextLine();
-
         int edadUsuario1 = 0, edadUsuario2 = 0, edadUsuario3 = 0;
         String usuario1 = "", usuario2 = "", usuario3 = "";
 
